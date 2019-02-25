@@ -1,0 +1,4 @@
+Przykladowy plik linia 1
+Przykladowa linia 2
+Przykladowa Linia 3
+Pozdro!!
